@@ -1,2 +1,2 @@
 # new-repo
-repo to learn folks how to do stuff
+Repo to learn how to do this coding thing.
